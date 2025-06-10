@@ -1,0 +1,9 @@
+type,date,category,amount
+income,2025-05-05,salary,550000.00
+income,2025-05-05,business,350000.00
+income,2025-05-05,other,5500.00
+expense,2025-05-05,food,4500.00
+expense,2025-05-05,rent,7500.00
+expense,2025-05-05,travel,4000.00
+expense,2025-05-05,utilities,1500.00
+expense,2025-05-05,other,8000.00
