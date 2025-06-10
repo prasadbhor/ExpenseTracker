@@ -14,7 +14,7 @@ public class ExpenseTracker {
 
     private static final List<Transaction> transactions = new ArrayList<>();
 
-    public static void main(String[] args) {git ini
+    public static void main(String[] args) {
         printWelcome();
         mainMenuLoop();
     }
