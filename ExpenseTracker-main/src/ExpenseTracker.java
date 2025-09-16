@@ -22,7 +22,7 @@ public class ExpenseTracker {
 
     private static void printWelcome() {
         System.out.println("===============PrasadBhor=================");
-        System.out.println("         Welcome to Expense Tracker  System  Thank u    ");
+        System.out.println("         Welcome to Expense Tracker  System  Pooja Bhor    ");
         System.out.println("=================Assignment===============");
     }
 
